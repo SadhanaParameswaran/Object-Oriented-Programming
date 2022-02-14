@@ -1,6 +1,6 @@
 This program uses Java concepts of 
-  Class
-  Object
+  Class\n
+  Object\n
   Access Specifier
   Inheritance
   Interface
